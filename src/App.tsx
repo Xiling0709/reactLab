@@ -58,7 +58,7 @@ function App() {
   return (
     <>
     <div>
-      <h1>Xiling's React</h1>
+      <h1>Xiling's Moodboard</h1>
     </div>
       <div className ='main'>
         <ul className='cards'>
